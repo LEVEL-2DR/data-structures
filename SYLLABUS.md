@@ -171,7 +171,7 @@
     - k-way merge
     - Top k elements
     - Interval problems
-- HashMap
+- [x] HashMap
     - Introduction
     - Theory - how it works
     - Comparisons of various forms
